@@ -8,3 +8,5 @@ A graphical user interface for gesture control of Mitsubishi MELFA series develo
 6. A TCP socket will be created and ready to listen to incoming clients.
 7. To activate the gesture recognition module, run the python file "main".
 8. Mitsubishi MELFA robots can be controlled through gesture based on the guidelines displayed in the GUI.
+9. Video simulation: https://www.youtube.com/watch?v=mrISdGT7T6s
+10. Project documentation presentation: https://www.youtube.com/watch?v=I_dsUn9pdNo
