@@ -12,4 +12,4 @@ A graphical user interface for gesture control of Mitsubishi MELFA series develo
 10. Project documentation presentation: https://www.youtube.com/watch?v=I_dsUn9pdNo
 
 
-The python project repository can be find in gesture-recognition-modue while the C++/CLI GUI can be found in Mitsubishi-gesture-gui
+The python project repository can be find in gesture-recognition-module while the C++/CLI GUI can be found in mitsubishi-control-gui
