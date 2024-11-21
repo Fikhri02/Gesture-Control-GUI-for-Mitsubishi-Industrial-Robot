@@ -10,3 +10,6 @@ A graphical user interface for gesture control of Mitsubishi MELFA series develo
 8. Mitsubishi MELFA robots can be controlled through gesture based on the guidelines displayed in the GUI.
 9. Video simulation: https://www.youtube.com/watch?v=mrISdGT7T6s
 10. Project documentation presentation: https://www.youtube.com/watch?v=I_dsUn9pdNo
+
+
+The python project repository can be find in gesture-recognition-modue while the C++/CLI GUI can be found in Mitsubishi-gesture-gui
